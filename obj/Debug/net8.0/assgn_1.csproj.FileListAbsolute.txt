@@ -1,0 +1,14 @@
+/Users/claire/Desktop/GBC/2024_winter/comp1202/assignments/assgn_1/bin/Debug/net8.0/assgn_1
+/Users/claire/Desktop/GBC/2024_winter/comp1202/assignments/assgn_1/bin/Debug/net8.0/assgn_1.deps.json
+/Users/claire/Desktop/GBC/2024_winter/comp1202/assignments/assgn_1/bin/Debug/net8.0/assgn_1.runtimeconfig.json
+/Users/claire/Desktop/GBC/2024_winter/comp1202/assignments/assgn_1/bin/Debug/net8.0/assgn_1.dll
+/Users/claire/Desktop/GBC/2024_winter/comp1202/assignments/assgn_1/bin/Debug/net8.0/assgn_1.pdb
+/Users/claire/Desktop/GBC/2024_winter/comp1202/assignments/assgn_1/obj/Debug/net8.0/assgn_1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/claire/Desktop/GBC/2024_winter/comp1202/assignments/assgn_1/obj/Debug/net8.0/assgn_1.AssemblyInfoInputs.cache
+/Users/claire/Desktop/GBC/2024_winter/comp1202/assignments/assgn_1/obj/Debug/net8.0/assgn_1.AssemblyInfo.cs
+/Users/claire/Desktop/GBC/2024_winter/comp1202/assignments/assgn_1/obj/Debug/net8.0/assgn_1.csproj.CoreCompileInputs.cache
+/Users/claire/Desktop/GBC/2024_winter/comp1202/assignments/assgn_1/obj/Debug/net8.0/assgn_1.dll
+/Users/claire/Desktop/GBC/2024_winter/comp1202/assignments/assgn_1/obj/Debug/net8.0/refint/assgn_1.dll
+/Users/claire/Desktop/GBC/2024_winter/comp1202/assignments/assgn_1/obj/Debug/net8.0/assgn_1.pdb
+/Users/claire/Desktop/GBC/2024_winter/comp1202/assignments/assgn_1/obj/Debug/net8.0/assgn_1.genruntimeconfig.cache
+/Users/claire/Desktop/GBC/2024_winter/comp1202/assignments/assgn_1/obj/Debug/net8.0/ref/assgn_1.dll
