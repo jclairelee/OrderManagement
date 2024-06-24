@@ -410,7 +410,7 @@ namespace Assn_One
                     case "HAPPY2024":
                         discountPercentage = 0.10; // 10% discount
                         break;
-                    case "COMP1202":
+                    case "EATMORE":
                         discountPercentage = 0.20; // 20% discount
                         break;
                     

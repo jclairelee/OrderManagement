@@ -12,3 +12,4 @@
 /Users/claire/Desktop/GBC/2024_winter/comp1202/assignments/assgn_1/obj/Debug/net8.0/assgn_1.pdb
 /Users/claire/Desktop/GBC/2024_winter/comp1202/assignments/assgn_1/obj/Debug/net8.0/assgn_1.genruntimeconfig.cache
 /Users/claire/Desktop/GBC/2024_winter/comp1202/assignments/assgn_1/obj/Debug/net8.0/ref/assgn_1.dll
+/Users/claire/Desktop/GBC/2024_winter/comp1202/assignments/assgn_1/obj/Debug/net8.0/assgn_1.sourcelink.json
